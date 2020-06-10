@@ -1,53 +1,58 @@
 {
-  "locations": {
     "location1": {
       "name": "Rome",
       "country": "Italy",
       "dates": "1/1/2021 - 1/7/2021",
       "isCompleted": false,
-     "imageUrl": "https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg"
+     "imageUrl": "https://www.fodors.com/wp-content/uploads/2018/10/HERO_UltimateRome_Hero_shutterstock789412159.jpg",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
     "location2": {
       "name": "Paris",
       "country": "France",
       "dates": "1/8/2021 - 1/14/2021",
       "isCompleted": false,
-     "imageUrl": "https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/020/Paris_AdobeStock_264549883_1.jpg"
+     "imageUrl": "https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/020/Paris_AdobeStock_264549883_1.jpg",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
     "location3": {
       "name": "Berlin",
       "country": "Germany",
       "dates": "1/15/2021 - 1/21/2021",
       "isCompleted": false,
-     "imageUrl": "https://media.gettyimages.com/photos/berlin-city-nights-picture-id109861425?s=612x612"
+     "imageUrl": "https://media.gettyimages.com/photos/berlin-city-nights-picture-id109861425?s=612x612",
+     "uid": "12345"
     },
     "location4": {
       "name": "Bern",
       "country": "Switzerland",
       "dates": "2/1/2021 - 2/8/2021",
       "isCompleted": false, 
-     "imageUrl": "https://media.gettyimages.com/photos/bern-city-swtizerland-picture-id607533408?s=612x612"
+     "imageUrl": "https://media.gettyimages.com/photos/bern-city-swtizerland-picture-id607533408?s=612x612",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
     "location5": {
       "name": "Bucharest",
       "country": "Romania",
       "dates": "10/1/2019 - 10/8/2019",
       "isCompleted": true,
-     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZaQECWXzXFZRSYVOO8GoLZnfZJKwG6IIjzM0Q9r1_VC4HASKR&usqp=CAU"
+     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZaQECWXzXFZRSYVOO8GoLZnfZJKwG6IIjzM0Q9r1_VC4HASKR&usqp=CAU",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
 "location6": {
       "name": "Sofia",
       "country": "Bulgaria",
       "dates": "10/8/2019 - 10/15/2019",
       "isCompleted": true,
-     "imageUrl": "https://www.back-packer.org/wp-content/uploads/Sofia-Bulgarien-Stadtpark-und-Theater.jpg"
+     "imageUrl": "https://www.back-packer.org/wp-content/uploads/Sofia-Bulgarien-Stadtpark-und-Theater.jpg",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
 "location7": {
       "name": "Athens",
       "country": "Greece",
       "dates": "10/16/2019 - 10/23/2019",
       "isCompleted": true,
-     "imageUrl": "https://www.visionpubl.com/en/wp-content/uploads/sites/3/2016/12/4922244491_a0dbaacf19_b-1.jpg"
+     "imageUrl": "https://www.visionpubl.com/en/wp-content/uploads/sites/3/2016/12/4922244491_a0dbaacf19_b-1.jpg",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     }
   }
-}

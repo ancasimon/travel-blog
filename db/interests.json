@@ -1,12 +1,12 @@
 {
-  "interests": {
     "interest1": {
       "locationId": "location2",
       "name": "Eiffel Tower",
       "description": "An object of discord, desire and fascination, the Eiffel Tower never fails to impress. Enriched by a history full of new developments, here you can discover all of its key information.",
       "cost": 16.60,
       "review": "",
-      "imageUrl": "https://www.france-hotel-guide.com/en/blog/wp-content/uploads/2014/04/rsz_3_eiffel-tower-1526364_960_720.jpg?ezimgfmt=ng:webp/ngcb2"
+      "imageUrl": "https://www.france-hotel-guide.com/en/blog/wp-content/uploads/2014/04/rsz_3_eiffel-tower-1526364_960_720.jpg?ezimgfmt=ng:webp/ngcb2",
+      "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
  "interest2": {
       "locationId": "location2",
@@ -14,7 +14,8 @@
       "description": "Built on the Place de l’Etoile, at one end of the Champs-Elysée, the Arc de Triomphe is one the biggest arches in the world.",
       "cost": 12.00,
       "review": "",
-     "imageUrl": "https://www.france-hotel-guide.com/en/blog/wp-content/uploads/2014/04/rsz_2_arc-de-triomphe-654114_960_720.jpg?ezimgfmt=ng:webp/ngcb2"
+     "imageUrl": "https://www.france-hotel-guide.com/en/blog/wp-content/uploads/2014/04/rsz_2_arc-de-triomphe-654114_960_720.jpg?ezimgfmt=ng:webp/ngcb2",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
  "interest3": {
       "locationId": "location2",
@@ -22,7 +23,8 @@
       "description": "Nested upon its 130-meter high hill, the basilica, built in a Romano-Byzantine style, is an architectural masterpiece.",
       "cost": 8.00,
       "review": "",
-     "imageUrl": "https://www.france-hotel-guide.com/en/blog/wp-content/uploads/2014/04/rsz_4_sacr%C3%A9_coeur.jpg?ezimgfmt=ng:webp/ngcb2"
+     "imageUrl": "https://www.france-hotel-guide.com/en/blog/wp-content/uploads/2014/04/rsz_4_sacr%C3%A9_coeur.jpg?ezimgfmt=ng:webp/ngcb2",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
  "interest4": {
       "locationId": "location3",
@@ -30,7 +32,8 @@
       "description": "When the Brandenburg Gate was inaugurated in 1791, it was only one of many city gates, admittedly a particularly beautiful one.",
       "cost": 0,
       "review": "",
-     "imageUrl": "https://www.dw.com/image/16677205_303.jpg"
+     "imageUrl": "https://www.dw.com/image/16677205_303.jpg",
+     "uid": "12345"
     },
  "interest5": {
       "locationId": "location4",
@@ -38,7 +41,8 @@
       "description": "Situated on a cliff surrounded on three sides by the stunning aquamarine waters of the Aare River, the old town has preserved much of its medieval character.",
       "cost": 0,
       "review": "",
-     "imageUrl": "https://www.planetware.com/photos-large/CH/switzerland-bern-Old-town.jpg"
+     "imageUrl": "https://www.planetware.com/photos-large/CH/switzerland-bern-Old-town.jpg",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
  "interest6": {
       "locationId": "location4",
@@ -46,7 +50,8 @@
       "description": "Einstein did some of his most impressive work while living here, including writing the Annus Mirabilis papers on the photoelectric effect, the Brownian motion, the special theory of relativity, and E = mc2.",
       "cost": 15.50,
       "review": "",
-     "imageUrl": "https://www.planetware.com/wpimages/2019/08/switzerland-bern-top-attractions-einstein-haus.jpg"
+     "imageUrl": "https://www.planetware.com/wpimages/2019/08/switzerland-bern-top-attractions-einstein-haus.jpg",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
  "interest7": {
       "locationId": "location5",
@@ -54,7 +59,8 @@
       "description": "On one of the oldest and most representative artery which is Calea Victoriei, across the former Royal Palace, stands the Athenaeum, the celebrated symbol of the national culture, a prominent architectural and cultural heritage.",
       "cost": 10.00,
       "review": "Its exceptional acoustics place the Romanian Athenaeum Hall among the most successful constructions of its kind worldwide.",
-     "imageUrl": "https://unknownbucharestdotcom.files.wordpress.com/2011/08/the-romanian-athenaeum.jpg?w=418&h=310"
+     "imageUrl": "https://unknownbucharestdotcom.files.wordpress.com/2011/08/the-romanian-athenaeum.jpg?w=418&h=310",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
  "interest8": {
       "locationId": "location5",
@@ -62,7 +68,8 @@
       "description": "Commonly known as “Ceausescu’s House” and popularly referred to by Romanians as “The House of the People”, this building housing today the Romania’s Parliament is considered a major tourist attraction in today’s Bucharest and indeed, visitors rarely miss the second largest administrative building in the world.",
       "cost": 20.00,
       "review": "The House of the People will remain an ever lasting symbol of the dictatorship in the capital of Romania.",
-     "imageUrl": "https://unknownbucharestdotcom.files.wordpress.com/2011/07/parliament-palace-bucharest.jpg?w=600&h=450"
+     "imageUrl": "https://unknownbucharestdotcom.files.wordpress.com/2011/07/parliament-palace-bucharest.jpg?w=600&h=450",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
  "interest9": {
       "locationId": "location5",
@@ -70,7 +77,8 @@
       "description": "A visit to Bucharest would not be complete without a stroll through the Cismigiu Garden, a favorite and much loved place for generations of city’s inhabitants. ",
       "cost": 0,
       "review": "In 2012 Cismigiu Garden celebrates 160 years of existence.",
-     "imageUrl": "https://unknownbucharestdotcom.files.wordpress.com/2011/03/cismigiu-garden-bucharest.jpg?w=420&h=314"
+     "imageUrl": "https://unknownbucharestdotcom.files.wordpress.com/2011/03/cismigiu-garden-bucharest.jpg?w=420&h=314",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
  "interest10": {
       "locationId": "location5",
@@ -78,7 +86,8 @@
       "description": "The beginnings of the church go back in the early 1720s, in the time of the first Phanariot prince Nicolae Mavrocordat, when the Greek hieromonk Ioanichie settled in Bucharest, in the thriving area around the Princely Court, where he decided to set up an inn, followed shortly by a monastery. The inn was to ensure income to the monastery, a customary arrangement at the time.",
       "cost": 0,
       "review": "Stavropoleos is perhaps the most brilliant in the “pleiad” of churches to be found in Bucharest’s historical center. ",
-     "imageUrl": "https://unknownbucharestdotcom.files.wordpress.com/2010/10/stavropoleos-church-old-center-bucharest.jpg?w=420&h=310"
+     "imageUrl": "https://unknownbucharestdotcom.files.wordpress.com/2010/10/stavropoleos-church-old-center-bucharest.jpg?w=420&h=310",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     },
  "interest11": {
       "locationId": "location7",
@@ -86,7 +95,7 @@
       "description": "The temple was built from 447-432BCE in homage to the goddess Athena. The Parthenon has served many purposes since its initial construction, including as a church dedicated to the Virgin Mary and a mosque under the Ottoman occupation.",
       "cost": 0,
       "review": "A visit to Acropolis Hill, where the Parthenon is located, requires a certain amount of commitment (as well as sensible shoes and plenty of water), but once you reach the top you’ll be delighted that you made the journey.",
-     "imageUrl": "https://img.theculturetrip.com/1440x960/smart/wp-content/uploads/2017/01/sctp0143-parthenon-athens-greece-gravanis008.jpg"
+     "imageUrl": "https://img.theculturetrip.com/1440x960/smart/wp-content/uploads/2017/01/sctp0143-parthenon-athens-greece-gravanis008.jpg",
+     "uid": "VqiGzUt0QlfIQmk4n60GkVo92Lh2"
     }
   }
-}
