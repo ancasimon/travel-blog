@@ -1,7 +1,18 @@
+@import '../../../styles//colors';
+
 .MyNavbar {
-  display: block;
+  background-color: $lightPink;
+  height: 85px;
 }
 
+.navSize {
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+.brand {
+  height: 80px;
+}
 
 .pointerHand {
   cursor: pointer;
