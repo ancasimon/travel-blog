@@ -26,7 +26,7 @@ class LocationCard extends React.Component {
                 : <h4>Coming SOON!</h4>
             }
             <p>{location.dates}</p>
-            <Link className="btn btn-dark buttonFont" to='/locations/single/{location.id}'><i class="fas fa-binoculars"></i></Link>
+            <Link className="btn btn-dark buttonFont" to='/locations/single/{location.id}'><i className="fas fa-binoculars"></i></Link>
           </div>
         </div>
 

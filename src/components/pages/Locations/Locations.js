@@ -32,9 +32,9 @@ class Locations extends React.Component {
 
     return (
       <div className="Locations">
-        <h1>Past and Future Destinations</h1>
+        <h1 className="text-center">Past and Future Destinations</h1>
         <div className="text-center">
-          <Link className="btn btn-dark btn-lg buttonFont" to='/locations/new'><i class="fas fa-globe"></i>   Add a New Destination</Link>
+          <Link className="btn btn-dark btn-lg buttonFont" to='/locations/new'><i className="fas fa-globe"></i>   Add a New Destination</Link>
         </div>
         <div className="d-flex flex-wrap justify-content-center">
           {buildLocations}
