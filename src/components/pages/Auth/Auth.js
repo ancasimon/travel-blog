@@ -33,12 +33,12 @@ class Auth extends React.Component {
                     <figcaption><span>Uncover</span></figcaption>
 
                     <figure>
-                      <img src="https://i.pinimg.com/originals/e7/2a/0b/e72a0be2c101e9087e4b7181276abd32.jpg" alt="Bucharest, Romania" />
+                      <img src="https://media.gettyimages.com/photos/old-town-bucharest-romania-nightlife-picture-id495292882?s=612x612" alt="Bucharest, Romania" />
                       <input type="radio" name="radio-set" />
                       <figcaption><span>Learn</span></figcaption>
 
                       <figure>
-                        <img src="https://static.nationalgeographic.co.uk/files/styles/image_3200/public/ngts_web_st_likealocal_awl_bul0430_hr.jpg?w=1600&h=900" alt="Sofia, Bulgaria" />
+                        <img src="https://lp-cms-production.imgix.net/2019-06/6303650c1b029ccf013c3c59d260fd9f-aleksander-nevski-cathedral.jpg" alt="Sofia, Bulgaria" />
                         <input type="radio" name="radio-set" />
                         <figcaption><span>Adapt</span></figcaption>
 
