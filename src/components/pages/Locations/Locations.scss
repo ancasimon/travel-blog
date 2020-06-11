@@ -1,3 +1,10 @@
+@import '../../../styles//variables';
+
 .Locations {
   display: block;
+}
+
+h1 {
+  font-family: $bigFonts;
+  margin: 2rem;
 }
