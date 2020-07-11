@@ -36,7 +36,7 @@ class Interests extends React.Component {
         <Link to='/interests/edit/123'>Edit a Point of Interest</Link>
         <div className="d-flex flex-wrap">
           {buildInterestCards}
-          </div>
+        </div>
       </div>
     );
   }

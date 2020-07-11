@@ -7,6 +7,9 @@ const getInterestsByUid = (uid) => new Promise((resolve, reject) => {
   axios.get(`${baseUrl}/interests.json?orderBy="uid"&equalTo="${uid}"`)
     .then((response) => {
       const fbData = response.data;
+      console.log('uid in data file', uid);
+      console.log('fb response', response);
+      console.log('fb data', fbData);
       const interests = [];
       if (fbData) {
         Object.keys(fbData).forEach((interestPoint) => {

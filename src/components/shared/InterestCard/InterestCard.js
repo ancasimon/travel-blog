@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 import interestShape from '../../../helpers/propz/interestShape';
 
@@ -13,8 +12,8 @@ class InterestCard extends React.Component {
   render() {
     const { interest } = this.props;
     return (
-      <div className="InterestCard col-3">
-        <h1>Single interest card {interest.name}</h1>
+      <div className="InterestCard">
+        <h1>Single interest card for {interest.name}</h1>
       </div>
     );
   }
